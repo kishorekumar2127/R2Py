@@ -1,2 +1,2 @@
 # R2Py
-Calling R from Python
+Calling R functions(userdefined and library) from Python
